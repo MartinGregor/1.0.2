@@ -10,3 +10,4 @@ async def hello():
     return {
         'hello': settings.NAME
     }
+
